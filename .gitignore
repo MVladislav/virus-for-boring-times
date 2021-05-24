@@ -1,0 +1,9 @@
+*
+!.gitignore
+!LICENCE
+!README.md
+
+!Makefile
+!iAmRoot.asm
+!virus_comments.c
+!virus.c

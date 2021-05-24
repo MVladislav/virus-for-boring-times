@@ -1,7 +1,8 @@
 ; iAmRoot.asm
 ; author: MVladislav
 ; print Hey! I am an elf virus ;-)!\n and jump back
-; jmp address is only a placeholder
+; jmp address `0xcf73` is only a placeholder
+;   will be calculated and replaced in code
 
 section .text
   global iAmRoot
